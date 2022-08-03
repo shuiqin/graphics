@@ -5,6 +5,10 @@ https://akira-cn.github.io/graphics/
 ## 动画
 https://easings.net/
 
+## 牛顿迭代法
+https://zh.wikipedia.org/wiki/%E7%89%9B%E9%A1%BF%E6%B3%95
+
+
 ## 3D基础
 
 - [立方体](https://akira-cn.github.io/graphics/3d-basic/cube.html)
